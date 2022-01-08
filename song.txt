@@ -1,9 +1,16 @@
-I Can Win 
-Установите git и сгенерируйте пару ssh ключей. Авторизуйте публичный ключ на github.com.
-Укажите свой user.name и user.email в git.
-Создайте новый репозиторий на github.com и склонируйте его локально на свой компьютер.
-Создайте файл названием song.txt и поместите туда половину текста любимой песни.
-Сделайте коммит с названием "add first half of my favorite song" и отправьте его на сервер.
-Убедитесь что на github есть файл song.txt с текстом песни.
-Используя веб-интерфейс гитхаба добавьте вторую половину текста песни и сделайте коммит с названием "finish my song".
-В локальном репозитории сделайте pull и убедитесь что коммит, который вы создали на github, подтянулся и у вас полный текст песни.
+I'm Still Standing
+Элтон Джон
+You could never know what it's like
+Your blood like winter freezes just like ice
+And there's a cold lonely light that shines from you
+You'll wind up like the wreck you hide behind that mask you use
+And did you think this fool could never win?
+Well look at me, I'm coming back again
+I got a taste of love in a simple way
+And if you need to know while I'm still standing, you just fade away
+Don't you know I'm still standing better than I ever did
+Looking like a true survivor, feeling like a little kid
+I'm still standing after all this time
+Picking up the pieces of my life without you on my mind
+I'm still standing (Yeah, yeah, yeah)
+I'm still standing (Yeah, yeah, yeah)
